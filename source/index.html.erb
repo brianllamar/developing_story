@@ -1,5 +1,7 @@
 ---
 title: developing story
+pageable: true
+per_page: 10
 ---
 <!-- Page Header -->
 <!-- Set your background image for this header on the line below. -->
@@ -16,60 +18,42 @@ title: developing story
         </div>
     </div>
 </header>
-
 <!-- Main Content -->
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <% page_articles.each_with_index do |article, i| %>
             <div class="post-preview">
-                <a href="post.html">
+              <% date =  article.date.year %>
+              <a href=<%= "/#{article.title.split(" ").join("_").downcase}" %>>
                     <h2 class="post-title">
-                        Man must explore, and this is exploration at its greatest
+                        <%= article.title %>
                     </h2>
                     <h3 class="post-subtitle">
-                        Problems look mighty small from 150 miles up
+                        <%= article.body %>
                     </h3>
                 </a>
-                <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
+                <p class="post-meta">Posted by <a href="about.html">Brian Douglas</a> on <%= article.date.strftime('%B %e, %Y') %></p>
             </div>
             <hr>
-            <div class="post-preview">
-                <a href="post.html">
-                    <h2 class="post-title">
-                        I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
-                    </h2>
-                </a>
-                <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 18, 2014</p>
-            </div>
-            <hr>
-            <div class="post-preview">
-                <a href="post.html">
-                    <h2 class="post-title">
-                        Science has not yet mastered prophecy
-                    </h2>
-                    <h3 class="post-subtitle">
-                        We predict too much for the next year and yet far too little for the next ten.
-                    </h3>
-                </a>
-                <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on August 24, 2014</p>
-            </div>
-            <hr>
-            <div class="post-preview">
-                <a href="post.html">
-                    <h2 class="post-title">
-                        Failure is not an option
-                    </h2>
-                    <h3 class="post-subtitle">
-                        Many say exploration is part of our destiny, but it’s actually our duty to future generations.
-                    </h3>
-                </a>
-                <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on July 8, 2014</p>
-            </div>
-            <hr>
+          <% end %>
             <!-- Pager -->
             <ul class="pager">
                 <li class="next">
-                    <a href="#">Older Posts &rarr;</a>
+                  <% if paginate && num_pages > 1 %>
+                    <p>Page <%= page_number %> of <%= num_pages %></p>
+
+                    <% if prev_page %>
+                      <p><%= link_to 'Previous page', prev_page %></p>
+                    <% end %>
+                  <% end %>
+                    <% if paginate %>
+                      <% if next_page %>
+                        <p><%= link_to 'Older Posts', next_page %></p>
+                      <% end %>
+                    <% end %>
+
+                    <%#<a href="#">Older Posts &rarr;</a>%>
                 </li>
             </ul>
         </div>
