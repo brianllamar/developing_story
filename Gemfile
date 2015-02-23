@@ -12,5 +12,5 @@ gem "builder", "~> 3.0"
 gem 'rack-contrib'
 
 group :development do
-  gem 'thin'
+  gem 'puma'
 end
