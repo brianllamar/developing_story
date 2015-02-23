@@ -12,4 +12,4 @@ gem 'middleman-gh-pages'
 gem "builder", "~> 3.0"
 
 gem 'rack-contrib'
-gem 'thin'
+gem 'puma'
