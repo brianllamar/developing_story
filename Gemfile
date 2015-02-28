@@ -8,6 +8,8 @@ gem "middleman", "~> 3.3.9"
 gem "middleman-blog", "~> 3.5.3"
 gem 'middleman-gh-pages'
 
+gem 'font-awesome-middleman'
+
 # For feed.xml.builder
 gem "builder", "~> 3.0"
 

@@ -31,6 +31,8 @@ GEM
     erubis (2.7.0)
     execjs (2.3.0)
     ffi (1.9.6)
+    font-awesome-middleman (4.2.3)
+      middleman-core (~> 3.0)
     haml (4.0.6)
       tilt
     hike (1.2.3)
@@ -125,6 +127,7 @@ PLATFORMS
 
 DEPENDENCIES
   builder (~> 3.0)
+  font-awesome-middleman
   middleman (~> 3.3.9)
   middleman-blog (~> 3.5.3)
   middleman-gh-pages
