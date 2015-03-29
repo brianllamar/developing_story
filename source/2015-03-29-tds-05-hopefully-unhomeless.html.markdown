@@ -9,6 +9,7 @@ my_list:
   - <a href="http://pair.withassociates.com/">Pairing Sessions With Associates</a>
   - <a href="http://www.codenewbie.org/podcast/the-hard-way">Zed
    Shaw Code Newbie podcast (36:24)</a>
+  - <a href="http://discourse.codenewbie.org/t/finding-a-coding-mentor/56">Finding a Code Mentor</a> 
   - <a href="http://www.reimagine.org/">Reimagine Homelessness Project</a>
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198300539&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
