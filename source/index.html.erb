@@ -27,7 +27,7 @@ per_page: 10
             <div class="post-preview">
               <% date =  article.date.year %>
               <% path = "/tds-#{article.title.split(" ").join("-").downcase}.html" %>
-              <% follow_back_url = "http:/developing.link/" + path %>
+              <% follow_back_url = "http:/developing.link" + path %>
               <% podcast_url = "This Developing Story" %>
                <a href=<%= path %>>
                 <h2 class="post-title">
