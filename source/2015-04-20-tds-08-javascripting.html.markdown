@@ -12,7 +12,6 @@ my_list:
 
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201676442&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
 I attend a Rails and Ember meetup only to find out that Javascript is definitely a bit more exciting than Rails at the moment. I also share more of my experience finishing my first Ember app 
 
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.fm/e/10568?style=light' width='100%'></iframe>
