@@ -13,6 +13,7 @@ my_list:
   - <a href="http://tour.golang.org/welcome/1">GO Tour</a>
   - <a href="https://stephensearles.com/three-reasons-you-should-not-use-martini/">Why Martini is Bad</a>
   - <a href="http://rubynewbies.org/">RubyNewbies</a>
+  - <a href="http://code.bloc.io/4-rules-for-squashing-bugs/">Bloc Blog Post</a>
 ---
 
 I visit the Google SF campus for an ember.js meetup and find myself defending my reason for learning GO.
