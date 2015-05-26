@@ -4,7 +4,7 @@ date: 2015-05-26 15:24 UTC
 tags: podcast
 layout: podcast
 my_list:
-  - <a href="http://devstory.herokuapp.com/tds-10-growing-as-a-programmer.html">Podcast episode where I explaine my app</a>
+  - <a href="http://devstory.herokuapp.com/tds-10-growing-as-a-programmer.html">Podcast episode where I explain my app</a>
 ---
 
 I thought I had more in me, but had to cut this episode due to an
