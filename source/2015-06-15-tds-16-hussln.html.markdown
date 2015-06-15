@@ -1,0 +1,15 @@
+---
+title: tds-16-hussln
+date: 2015-06-15 16:05 UTC
+tags: podcast
+layout: podcast
+my_list:
+  - <a href="http://hussln.com">Hussln</a> 
+  - <a href="https://www.bloc.io/ios-bootcamp">Bloc ios course</a> 
+  - <a href="https://changelog.com/159/">Changelog #159</a> 
+  - <a href="http://rubynewbies.org/">Ruby Newbies</a> 
+  - <a href="http://getbevel.com/invite/76f832926d">Bevel</a> 
+---
+I give the name and link to my new api and also begin learning ios to start building the app on iphone.
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.fm/e/13056?style=light' width='100%'></iframe>
