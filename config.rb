@@ -1,12 +1,14 @@
 ###
 # Blog settings
 ###
-require "better_errors"
+# REMOVED DUE TO NETLIFY BREAKAGE
+#
+# require "better_errors"
 
-configure :development do
-  use BetterErrors::Middleware
-  BetterErrors.application_root = __dir__
-end
+# configure :development do
+#   use BetterErrors::Middleware
+#   BetterErrors.application_root = __dir__
+# end
 
 activate :relative_assets
 set :relative_links, true
