@@ -4,7 +4,7 @@ date: 2015-08-10 15:35 UTC
 tags: podcast
 layout: podcast
 my_list:
-- <a href="http://developingjourney.netlify.com/2015/08/10/why-rust">Why Rust>?</a>
+- <a href="http://developingjourney.netlify.com/2015/08/10/why-rust">Why Rust?</a>
 - <a href="http://hussln.com">Hussln App</a>
 - <a href="https://hackbrightacademy.com/">Hackbright</a>
 - <a href="http://www.hackthehood.org/">Hack the Hood</a>
