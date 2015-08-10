@@ -1,7 +1,0 @@
----
-title: 00 New Url
-date: 2015-08-10 15:48 UTC
-tags:
----
-All new episodes will be posted at my new url <a href="http://developingstory.netlify.com/">http://developingstory.netlify.com/</a>
-
