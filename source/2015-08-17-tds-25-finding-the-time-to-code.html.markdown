@@ -7,7 +7,6 @@ my_list:
   - <a href="http://try.bloc.io/ios-for-developers/">Bloc iOS for
   - <a href="https://oakland.impacthub.net/">Oakland Impact Hub</a>
   - <a href="https://trello.com/">Trello</a>
-
 ---
 This episode I share how I find and track my time to code inside and outside of work. I share my experience of my first earthquake.
 
