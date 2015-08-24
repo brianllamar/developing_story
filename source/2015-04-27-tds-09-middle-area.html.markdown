@@ -11,7 +11,7 @@ my_list:
   - <a href="http://brandonhilkert.com/books/build-a-ruby-gem/">Brandon Hilkert's - Build a Ruby Gem"</a>
   - <a href="https://gophercasts.io/">Gophercast</a>
   - <a href="http://theblackc000000de.blogspot.com/search?q=goals">My 2015 Goals</a>
-  - <a href="https://twitter.com/brianllamar/status/591724734942818304">Pick - cmd + shift + t</a>
+  - <a href="https://twitter.com/bdougieyo/status/591724734942818304">Pick - cmd + shift + t</a>
 ---
 
 I attended an impromptu code workshop with Corey Haines and also check in with my goals for 2015

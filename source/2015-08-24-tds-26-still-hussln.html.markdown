@@ -9,7 +9,7 @@ my_list:
   - <a href="https://github.com/bdougie/hussln-client">Hussln Ember code</a>
   - <a href="https://github.com/bdougie/Fakestagram">Fakestagram ios app</a>
   - <a href="https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e">Four Steps to Google, Without a Degree</a>
-  - <a href="https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco">Tenerloin</a>
+  - <a href="https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco">Tenderloin</a>
 ---
 I changed my name for the better and published a new version of hussln.
 

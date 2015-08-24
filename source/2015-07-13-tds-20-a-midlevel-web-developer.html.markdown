@@ -5,7 +5,7 @@ tags: podcast
 layout: podcast
 my_list:
   - <a href="http://mutualfun.io/">Mutualfun</a>
-  - <a href="https://github.com/brianllamar/alcolator">My Alcolator ios app</a>
+  - <a href="https://github.com/bdougie/alcolator">My Alcolator ios app</a>
   - <a href="http://www.bennadel.com/blog/2806-creating-a-simple-modal-system-in-angularjs.htm">Modals in Angular</a>
   - <a href="http://codepen.io/">Codepen</a>
   - <a href="http://www.philzcoffee.com/">Phillz</a>
