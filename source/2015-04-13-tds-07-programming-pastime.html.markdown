@@ -4,7 +4,7 @@ date: 2015-04-13 17:03 UTC
 tags: podcast
 layout: podcast
 my_list: 
-  - <a href="http://www.emberaddons.com/">Emmber Addons</a>
+  - <a href="http://www.emberaddons.com/">Ember Addons</a>
   - <a href="https://github.com/STEAMRole/diversified_voices_client">Project Diversified Repo</a>
   - <a href="http://bower.io/">Bower</a>
   - <a href="https://www.npmjs.com/">NPM</a>
