@@ -16,6 +16,6 @@ my_list:
 - <a href="http://learn-rails.com/">Daniel Kehoe Tutorials</a>
 - <a href="https://medium.com/@danielkehoe/i-left-my-heart-in-san-francisco-272b36438a21">Medium post on pricey San Francisco</a>
 ---
-I share my initial experiences with react-native and go on a rant about how you can get a job from a bootcamp but you still have to work for it. 
+I share my initial experiences with react-native and go on a rant about how you can get a job from a bootcamp but you still have to work for it. tweet #thisdevelopingstory for the periscope chat questions
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.fm/e/17787?style=light' width='100%'></iframe>
