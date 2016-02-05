@@ -4,7 +4,7 @@ date: 2016-02-05 17:31 UTC
 tags: podcast
 layout: podcast
 my_list: 
-  - <a href="hani.bloc.io">The Original Bloc</a>
+  - <a href="http://hani.bloc.io/">The Original Bloc</a>
   - <a href="https://jelly.co/">Jelly App</a>
   - <a href="https://www.brandslip.com/">Brand Slip</a>
   - <a href="http://blog.sfgate.com/stew/2015/10/05/mapping-s-f-s-human-feces-on-the-streets/">Human Poop Problem in SF</a>
