@@ -11,6 +11,7 @@ my_list:
   - <a href="http://amzn.to/1RampXl">High Performance Browser Networking - Book</a>
   - <a href="https://twitter.com/joelipper">@joelipper</a>
   - <a href="https://soundcloud.com/joe-lipper">Joe on SoundCloud</a>
+  - <a href="https://www.bloc.io/software-engineering-track?ref=bdougie</a>
 ---
 I interview my coworker at Bloc about his developing story.
 
