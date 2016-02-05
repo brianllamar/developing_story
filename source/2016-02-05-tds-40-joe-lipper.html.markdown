@@ -4,7 +4,6 @@ date: 2016-02-05 17:31 UTC
 tags: podcast
 layout: podcast
 my_list: 
-  - <a href="https://blog.bloc.io/spotlight/mentor-spotlight-interview-with-jared-tame/">Jared Tame's blog post</a>
   - <a href="hani.bloc.io">The Original Bloc</a>
   - <a href="https://jelly.co/">Jelly App</a>
   - <a href="https://www.brandslip.com/">Brand Slip</a>
