@@ -12,6 +12,8 @@ my_list:
   - <a href="https://twitter.com/joelipper">@joelipper</a>
   - <a href="https://soundcloud.com/joe-lipper">Joe on SoundCloud</a>
 ---
-I interview my coworker at Bloc about his developing story. Joe is a curriculum developer at Bloc and a California native. We also discuss our thoughts on living in the bay area and the life of tech employee.
+I interview my coworker at Bloc about his developing story.
+
+Joe is a curriculum developer at Bloc and a California native. We have a great discussion about thoughts on living in the bay area and the life of tech employee.
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/25892?style=light' width='100%'></iframe>
