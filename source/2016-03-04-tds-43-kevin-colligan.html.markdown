@@ -10,6 +10,6 @@ my_list:
   - <a href="https://www.bloc.io/mentors/">Bloc Mentors</a>
   - <a href="https://twitter.com/potuspalooza">POTUS Palooza on Twitter</a>
 ---
-I interview Kevin Colligan, a Bloc alum and creator of POTUS Palooza. Kevin is a super cool guy and a man of many talents, which we discover during the course of the interview.
+I interview Kevin Colligan, a Bloc alum and creator of POTUS Palooza. Kevin is a super cool guy and a man of many talents, which we discover during the interview.
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/28301?style=light' width='100%'></iframe>
