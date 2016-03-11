@@ -6,6 +6,7 @@ layout: podcast
 my_list:
   - <a href="http://elm-lang.org/">Elm</a>
   - <a href="http://backbonejs.org/">BackboneJS</a>
+  - <a href="https://twitter.com/wordofchristian">@wordofchristian on Twitter</a>
 ---
 
 I get interview Bloc's first engineering hire, Christian Schlensker, and get to find out about his exceptional Developing Story
