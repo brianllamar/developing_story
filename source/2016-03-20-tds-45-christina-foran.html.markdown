@@ -9,6 +9,7 @@ my_list:
   - <a href="https://hackbrightacademy.com/">Hackbright Academy</a>
   - <a href="https://www.womentechmakers.com/">Women Techmakers</a>
   - <a href="http://www.codeed.org/">Code_Ed</a>
+  - <a href="https://slack.com/">Slack</a>
 ---
 
 Hackbright Alum and Associate Developer at Slack chats with me about here experience learning how to code.
