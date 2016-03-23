@@ -18,3 +18,5 @@ gem "builder", "~> 3.0"
 
 # gem 'rack-contrib'
 gem 'puma'
+
+gem 'middleman-search_engine_sitemap'

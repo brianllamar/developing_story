@@ -1,3 +1,4 @@
+require 'builder'
 ###
 # Blog settings
 ###
@@ -40,6 +41,11 @@ activate :blog do |blog|
 end
 
 page "/feed.xml", layout: false
+page "/sitemap.xml", :layout => false
+
+# Sitemap
+set :url_root, 'http://podcast.briandouglas.me'
+activate :search_engine_sitemap
 
 #activate :deploy do |deploy|
   #deploy.method = :git
