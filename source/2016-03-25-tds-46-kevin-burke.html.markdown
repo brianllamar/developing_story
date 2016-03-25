@@ -6,6 +6,7 @@ layout: podcast
 my_list:
   - <a href="https://twitter.com/ekrubnivek?lang=en">@ekrubnivek on Twitter</a>
   - <a href="https://kev.inburke.com/">kev.inburke.com</a>
+  - <a href="https://www.mattcutts.com/">Matt Cutts</a>
 ---
 
 This episode I sit down with Kevin Burke from Shyp and talk about his path to becoming a developer.
