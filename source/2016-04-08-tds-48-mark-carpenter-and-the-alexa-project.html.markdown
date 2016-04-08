@@ -7,6 +7,7 @@ my_list:
   - <a href="https://blog.bloc.io/amazon-alexa-developer-training/">Bloc Alexa Project</a>
   - <a href="https://bloc.wistia.com/medias/1yk7ydau9o">Amazon Alexa Tech Talk</a>
   - <a href="http://askdevweekly.com/">Alexa Weekly Mailing List</a>
+  - <a href="https://bootcamping.curated.co/">Bootcamping Mailing List</a>
   - <a href="https://github.com/amzn/alexa-skills-kit-js">Alexa Skills Repo</a>
 ---
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/34898?style=light' width='100%'></iframe>
