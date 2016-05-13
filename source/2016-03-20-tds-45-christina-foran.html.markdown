@@ -12,7 +12,7 @@ my_list:
   - <a href="https://slack.com/">Slack</a>
 ---
 
-Hackbright Alum and Associate Developer at Slack chats with me about here experience learning how to code.
+Hackbright Alum and Associate Developer at Slack chats with me about her experience learning how to code.
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/32634?style=light' width='100%'></iframe>
 
