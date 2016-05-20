@@ -15,3 +15,5 @@ In this  episode I sit down with ruby developer and mentor, Bobbilee Hartman and
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/36724?style=light' width='100%'></iframe>
 
+
+**Update:** Rails Camp is coming  August 26-29th and you can sign up [here](https://www.picatic.com/railscampusawest)
