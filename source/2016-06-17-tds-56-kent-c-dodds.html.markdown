@@ -8,6 +8,7 @@ my_list:
   - <a href="https://itunes.apple.com/us/podcast/react30/id1121818347?mt=2">React30</a>
   - <a href="https://www.briefs.fm/">briefs.fm</a>
   - <a href="https://github.com/kentcdodds/ama">Kent's AMA</a>
+  - <a href="https://egghead.io/lessons/tools-intro-to-the-production-webpack-course?utm_source=announce&utm_medium=podcast&utm_campaign=this-developing-story">Webpack on egghead presented by Kent C. Dodds</a>
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-qPh6I2hfjw" frameborder="0" allowfullscreen></iframe>
 
