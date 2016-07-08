@@ -7,6 +7,7 @@ my_list:
   - <a href="http://www.collabcreators.com/">Collab</a>
   - <a href="https://twitter.com/TheLexTimes">Lex Times on Twitter</a>
   - <a href="https://medium.com/@thelextimes">Lex Times on Medium</a>
+  - <a href="http://www.fastcompany.com/3027993/this-man-will-give-10-of-his-salary-to-fund-another-minority-developer-if-his-indiegogo-camp">Lex's Crowd fund for Bootcamp Tuition</a>
 ---
 Lex is a software developer and standup comedian in LA.
 
