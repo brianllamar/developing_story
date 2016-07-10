@@ -44,7 +44,7 @@ page "/feed.xml", layout: false
 page "/sitemap.xml", :layout => false
 
 # Sitemap
-set :url_root, 'http://podcast.briandouglas.me'
+set :url_root, 'https://thisdevelopingstory.com'
 activate :search_engine_sitemap
 
 #activate :deploy do |deploy|
