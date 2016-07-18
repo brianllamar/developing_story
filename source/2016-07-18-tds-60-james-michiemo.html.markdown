@@ -9,6 +9,6 @@ my_list:
 
 ---
 
-Orlando programmer James Michiemo share his story of how he got into developing and what he is doing now.
+Orlando programmer James Michiemo shares his story of how he got into developing and what he is doing now.
 
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/42509?style=light' width='100%'></iframe>
