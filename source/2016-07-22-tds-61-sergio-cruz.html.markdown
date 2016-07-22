@@ -1,5 +1,5 @@
 ---
-title: tds-61-sergio-cruz
+title: 61 Sergio Cruz
 date: 2016-07-22 13:54 UTC
 tags:
 layout: podcast
