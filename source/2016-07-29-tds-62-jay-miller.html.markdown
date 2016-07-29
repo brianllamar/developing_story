@@ -7,10 +7,7 @@ my_list:
   - <a href="https://twitter.com/kjaymiller">@kjaymiller on Twitter</a>
 ---
 
-st of Productivity in Tech and passionate code slinger, Jay Miller,
-   share's his story how he got his love for coding and how he shares it
-   with the community.  
+Host of Productivity in Tech and passionate code slinger, Jay Miller, share's his story how he got his love for coding and how he shares it with the community.  
 
-   <iframe frameborder='0' height='36px' scrolling='no' seamless
-   src='https://simplecast.com/e/43488?style=light'
-   width='100%'></iframe>
+
+ <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/43488?style=light' width='100%'></iframe>
