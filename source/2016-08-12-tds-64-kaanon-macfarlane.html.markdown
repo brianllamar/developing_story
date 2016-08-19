@@ -5,6 +5,7 @@ tags:
 layout: podcast
 my_list:
   - <a href="https://twitter.com/thekaanon">@thekaanon on Twitter</a>
+  - <a href="https://medium.com/@bddougie/the-miami-effect-dev-recruiting-390834f56589#.4uq0dcj35">The Miami Effect for Recruiting</a>
 ---
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/44470?style=light' width='100%'></iframe>
 
