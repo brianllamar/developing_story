@@ -1,5 +1,5 @@
 ---
-title: 65 Corey Grudsen
+title: 65 Corey Grusden
 date: 2016-08-19 19:15 UTC
 tags:
 layout: podcast
