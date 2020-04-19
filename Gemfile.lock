@@ -30,7 +30,7 @@ GEM
       sass (>= 3.2, < 3.5)
     erubis (2.7.0)
     execjs (2.3.0)
-    ffi (1.9.6)
+    ffi (1.12.2)
     font-awesome-middleman (4.2.3)
       middleman-core (~> 3.0)
     haml (5.1.2)
