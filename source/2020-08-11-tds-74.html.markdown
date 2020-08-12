@@ -1,0 +1,89 @@
+---
+title: 74 Open sauced 
+date: 2020-08-11 22:14 UTC
+tags: podcast
+layout: podcast
+my_list:
+- <a href="http://opensauced.pizza">Open Sauced</a>
+- <a href="https://www.twitch.tv/bdougieyo">twitch.tv/bdougieYO</a>
+- <a href="https://bdougie.live/">bdougie.live</a>
+- <a href="https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg">youtube.com/ilikerobot</a>
+
+---
+Let's catch up on what I have been working on in the last few months: Open Sauced, the platform to find you next contribution and 
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/89980e6b-2376-4053-a07e-08284eb20b96?dark=false"></iframe>
+
+## Transcript:
+
+(00:03):
+
+Alright, finally, back again, back on the saddle. It's ironic that I, back in April, I focused on the title being back on the saddle after 18 months of having a podcast recorded, but never shipping it and then recorded the podcast in April. And now here we are in August. So for mental roughly later, but you know, who's keeping dates. I actually listen to podcasts once a couple of podcasts and they say, they always say never, never apologize for taking, taken too long to ship into the podcasts. And you know, I'm not gonna apologize. And what I'm gonna do is call it this season two. Just kidding. I also don't like it when people would call it season two I think out there after serial came out, like roughly actually around the time this podcast that started back in probably 2014 it seemed like everybody was like, Oh wow, we could do seasons and podcasts. And then everybody who had a podcast and thought podcasts was back. They created the season too. Anyway, I digress. I'm here to talk about my developing story and this is, this is what this podcast is about. So I'm gonna provide moving forward. I'm gonna provide some personal updates and some professional updates and we'll just go from there.
+
+(01:23):
+
+So in the last four months, a lot has happened. I had every intention to start off this podcast and get it off the ground. I got quite sidetracked with something that I've been working on a side one being Twitch streaming. I actually had a whole pitch at the end of my last podcast, but I cut it because I want them to try to figure out what I wanted to do with Twitch streaming. So my thought was to have interviews and guests come on and do my Twitch streaming, which is something I started doing right off the bat and had a couple of people from one graph. Also I had my coworker come on and I taught him out to do some basic JavaScript and that's all available if he could have open sauced, a YouTube channel definitely check that out.
+
+(02:12):
+
+But well I guess I have to say I've been working to open source as well. So if you go to opensauced.Pizza, you could see the project I've been working on for quite some time, which I actually have not even mentioned on this podcast to be quite honest, because it didn't exist until I stopped doing the podcast. But what I'm getting at is that that same interview style that was happening on Twitch that ended up getting moved to GitHub's Twitch. So twitch.tv/github it's called opensource Friday. That's been, what I've been really working on for the past couple of months is actually getting that off the ground. I'm a big fan of open source. I think everybody should, if you're a developer, you don't have to contribute open source or do open source, but I think it will be beneficial to your career.
+
+(02:58):
+
+It's beneficial to having that access to members of the developer community. That's not directly on your, your engineering team, your day to day team. I also realize it's not feasible for everybody to do open source all the time on the weekends, so are in your evenings. So I'm trying to build a way where it's, it's easy, it's approachable. It doesn't take up your nights and weekends. Like you could do some open source while you're working. And that's, that's my goal through open sauce. So I highly recommend if you, if you have a chance to check it out wander over the opensauced.pizza I am looking for information. I'm think I'm gonna set up some some testing customer feedback on the site itself. Just I can get feedback on thoughts and people approaching it.
+
+(03:46):
+
+I think some of the best feedback I got was this, like this flat out questions on why would I use this? And if I zoom back a bit too as well, cause I didn't have a chance to talk about this on the podcast, open sauce is a project that I built to manage my open source projects. And when I say open source projects, what I really mean is by open source contributions. Now these are always, these are like projects that I find through email newsletters or I use day to day and I find some like nuance or a feature or a bug and, or I find some issues that I just want to contribute to. I, my problem is every time I go to contribute to something, I forget where it's at. I forget how to approach it. I don't know how to approach it.
+
+(04:28):
+
+So my goal is to basically use open source to take notes of these projects and keep and keep track of yeah, pretty much keep track of the contributions I'm looking to make. So that's the whole baseline of the project. It was a project I built for myself. I'd never let anybody else use it. I did not open source it. Well, I did open source the entire time because frankly GitHub charge for private repos. And I didn't feel like it would be a private project or it was a good enough project for it to keep it private and worry about people not seeing it. But what I'm getting at is it's open source through and through the actual project itself, it's built on top of a GitHub GitHub repo. So when I say that, when you log in to open sauce, you log into your get up account and then that GitHub repo gets created.
+
+(05:14):
+
+And then all the data you're storing is being stored in the GitHub issue. So it's a bit clever in the way I approached it. So I highly, I, I hope that you'll, you'll check it out. Give it a try and give me some feedback too, as well. We have a discord if it's linked up in the header of the actual site itself, join the discord. Ping me, asked me questions gave me ideas too, if you have ideas for how to make it better, or if you just have flat out questions and why I would even approach it this way those are all valid. Just don't be mean. So with that being said, I originally this January had the plan to work on open sauce w at, during work hours. So my goal was on Fridays at GitHub a will to GitHub is of my, my current employer too, as well.
+
+(06:01):
+
+That's something I mentioned last, last episode, but it didn't really get a ton of detail about yeah, I work at get hub now and on Fridays, like since we're all remote Fridays tend to be pretty light day pretty slow. Those are the days I usually catch up on emails, catch up on anything that people are waiting to hear me for me from. And if I don't have any like long standing projects, I tend to have a good amount of time on Fridays just to tinker with some code. And what I wanted to do is rather than this randomly tinker and things, I wanted to actually leverage that time to contribute to something consistently, like I work at get hub. I should probably contribute open source. A lot of open source is on GitHub. And I had this project I've been working on for the longest time, which open source.
+
+(06:42):
+
+So I figured, let me just go ahead and revamp it, which I did last year. I got some UI went out to do some UI with learn ui.com. I think I'll leave a link in the show notes for the actual tool I use to learn how to use sketch and build UI. So all the UI you see in open-sourced it's stuff that I developed from my brain. I didn't pay anybody for it because I didn't feel like I should pay somebody for the UI. I actually, at this point I feel like I should, because I'm not, not pleased with it, but what I was getting at is I just wanted to get something out there and usable, and that's what we have today with open source. So I built a community around it. We're roughly about 105 users. We've got about a little bit less than that in the discord.
+
+(07:25):
+
+People chatting, asking questions about open source and that's pretty much where it's at and I'm super proud of the project today. I am super proud of the people who have contributed to it. Since January, since I've sort of just started cleaning it up and picking up, and also I'm super proud of the community that's been growing around there too as well. Like I've, I I've been doing streaming on Twitch every Tuesday and Friday in addition to opensource Fridays for my personal sort of consistency of writing some code. And it's been great to see the community sort of grow around it. I think I roughly have like a hundred and something, 120 ish Twitch followers, I think it might be a little more than that, but anyway I've got a good amount of people following me on Twitch, which I did not imagine be a thing.
+
+(08:12):
+
+And people who show up every weekend, just ask questions and ask what I'm doing. And I think Twitch is a interesting platform, which I'll transition into talking about where I personally have, did not imagine like the, I tried. So basically I, I tried Twitch about two years ago and I didn't quite get how to approach it most, which users were gamers and they were using Twitch to sort of show off their gameplay and have a community around the gaming, the games that they're playing. And when people started writing code on Twitch I th I started taking notice and the way I approached it was I was like giving conference style talks a little lightning talk first, and then I would just like read documentation and then write a little bit of code. It wasn't great. And luckily Twitch doesn't actually keep any record of that after 60 days for prime members, two weeks for non prime members.
+
+(09:11):
+
+And so I got back on the, literally back on the saddle of Twitch this is to try this whole thing out. And I was actually really pleased. I've actually enjoyed the experience. I've done a lot of work to make the Twitch stream a little more cutting edge. And yeah, it's great. And yeah, I'm not, I think I'll probably be doing this for probably the indefinite future, unless I, you know, unless I get back on the plane and start traveling more and becomes more inconsistent, I don't actually envision me getting back on a plane and traveling to conferences every month. Like I was doing before at one time I was doing every week when I was working at net five. But I'm finding that Twitch is the place where I would normally have that consistency and communication with other people through conferences or meetups.
+
+(10:03):
+
+I'm actually doing that on Twitch. I'm not doing as much. I'm going to random meetups on meetup.com anymore. Despite the fact that there are online now I find that less engaging at this point. Like I think now with conferences and meetups, both being a hundred percent online, I don't see myself taking time away from my family to sit in front of the computer for another 30 minutes or another hour. This doesn't seem feasible. And I'm curious of what's going to happen with the conference space in the meetup space. I think what is feasible is me taking a couple hours out of the day during the work day to go to a conference or a up, but my nights and my evenings just didn't seem like it's the place to do conference attendance as well as meet up attendance, it build community again.
+
+(10:54):
+
+So I'd be curious to see what other people think. If you have thoughts hit me up on Twitter, I'm, [inaudible] on Twitter which sounds like I'm going to be wrapping up. And I had one more thing I wanted to mention too as well. And I think I'll probably keep the podcast less than 15 minutes for now. My, my goal is to keep the conversation short, brief that you could update, get updated on what I'm doing and then send you somewhere else to have the conversation. Maybe that's too much inside inside Brian, but I'm inside baseball. But what, one more thing I wanted to mention too, as well, in addition to the Twitch, which I highly recommend twitch.tv/be ducky, yo you actually just go to my website, BDD live.
+
+(11:37):
+
+I have I've got, I've got
+
+(11:39):
+
+New website and basically putting all my efforts at streaming and current activities. I think previously I've always done bride Douglas at me as my blog and the central place, that point to this podcast and everything. But what I'm gonna do moving is actually to add this to a BWI, I should probably keep a link in the footer for the podcast so that we can keep up to date with what I'm, what I'm working on. One of the thing is that in addition to the podcast, I've started a YouTube channel. And I think the easiest way to find it is youtube.com/i like robot. And the name itself is a, yeah, it's a name I use for one of my side music projects back in college. So back in 2008 is when I created that. So if you're, I don't have any more explanations of the name, but because I've had that YouTube for the longest time, and it's like my personal YouTube, it's linked to my actual Gmail account.
+
+(12:39):
+
+Until I figured out how to change the name that's going to be, I like robot. It will be the the name of the URL itself. The channel itself is just got my name, Brian Douglas definitely check it out, but I spent some time working on these videos get action traction. So if you're interested to get of actions I'll be doing some short videos to help you get traction within get of actions which I owe the community quite a few more. So hopefully I'll do like two or three this week and start putting those out weekly. And in addition to that, I'll be doing some how to video content. I think a lot of us in Devereaux are sort of migrating the Twitch or YouTube to basically validate our presence and validate our existence in this space. So it's been interesting watching the transition from constant con conference engagement activity to now we're engaging our own communities through these other mediums.
+
+(13:31):
+
+So I got on the bandwagon I'm now I now have a YouTube that, well I've had a YouTube, but I'm not using my YouTube for, for technical content. So if you could head over to YouTube, also keep a link in the show notes, a youtube.com/i like robot. The latest video I have is how to, how to craft your pitch. Part of the reason why I spent so much time in 2017 and 2018 on stage and at conferences and doing workshops and meetups is through this one secret sauce one piece of secret sauce for getting your conference abstracts accepted, which I'm going to go way more detail. I sort of gave a taste which is that, that first video how to craft your perfect pitch which goes in the details. I'll save it for you to the center, to head over there and check it out. But with that being said I appreciate you listening to this developing story. It's going to be, it's going to be a ride. I, I'm definitely gonna try to keep back on the quote-unquote saddle and start shipping these on a regular basis. I'll try to do one video and one podcast a week, and we'll see how that goes. But thanks for listening to this developing story.
